@@ -8,7 +8,7 @@
 ##
 
 <div>
-  <h3>Link do GitHub Page:</h3> https://vitormarcelosantos.github.io/Trybe-Projeto-Bonus-Lista-Tarefas/
+  <h3>Link do GitHub Page:</h3> https://vitormarcelosantos.github.io/Trybe-Projeto-Bonus-Carta-Misteriosa/
 </div>
 
 ##
